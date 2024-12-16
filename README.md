@@ -1,8 +1,8 @@
 # Hello 👋, I'm Rodney
 
-I'm a passionate Junior Fullstack Developer from Costa Rica.
+I'm a passionate Electronics Engineering student from Costa Rica.
 
-- 🙍‍♂️ I am an advanced software engineering student with a strong academic background and practical skills. Focused on solving problems efficiently and creating innovative solutions, I have worked and developed on various technologies throughout my studies and projects. I am committed to continuous learning, and I seek opportunities to apply and enhance my skills in challenging environments.  
+- 🙍‍♂️ I am an advanced electronics engineering student with a strong academic background and practical skills. Focused on solving problems efficiently and creating innovative solutions, I have worked and developed on various technologies throughout my studies and projects. I am committed to continuous learning, and I seek opportunities to apply and enhance my skills in challenging environments.  
 - 📫 How to reach me: [corralesr918@gmail.com](mailto:corralesr918@gmail.com)
 
 ## Connect with me:
