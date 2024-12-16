@@ -20,4 +20,8 @@ I'm a passionate Electronics Engineering student from Costa Rica.
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" height="25" />
 <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" height="25" />
 <img src="https://img.shields.io/badge/-Assembly-525252?style=flat-square&logoColor=white" height="25" />
+<img src="https://img.shields.io/badge/-Automation-FFA500?style=flat-square&logoColor=white" height="25" />
+<img src="https://img.shields.io/badge/-Proteus%20Design%20Suite-0082C9?style=flat-square&logoColor=white" height="25" />
+<img src="https://img.shields.io/badge/-NI%20Multisim-0071C5?style=flat-square&logoColor=white" height="25" />
+<img src="https://img.shields.io/badge/-AutoCAD-0696D7?style=flat-square&logo=autodesk&logoColor=white" height="25" />
 </p>
