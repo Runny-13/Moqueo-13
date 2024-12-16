@@ -37,4 +37,5 @@ I'm a passionate Electronics Engineering student from Costa Rica.
 <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" height="25" />
 <img src="https://img.shields.io/badge/-FluidSIM-0082C9?style=flat-square&logoColor=white" height="25" />
 <img src="https://img.shields.io/badge/-LabVIEW-FFDB00?style=flat-square&logo=ni&logoColor=black" height="25" />
+<img src="https://img.shields.io/badge/-Cybersecurity-0A74DA?style=flat-square&logo=security&logoColor=white" height="25" />
 </p>
