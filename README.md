@@ -25,3 +25,9 @@ I'm a passionate Electronics Engineering student from Costa Rica.
 <img src="https://img.shields.io/badge/-NI%20Multisim-0071C5?style=flat-square&logoColor=white" height="25" />
 <img src="https://img.shields.io/badge/-AutoCAD-0696D7?style=flat-square&logo=autodesk&logoColor=white" height="25" />
 </p>
+
+<strong style="margin-top: 20px;">Knowledge in</strong><br />
+<p align="left">
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" height="25" />
+<img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" height="25" />
+</p>
